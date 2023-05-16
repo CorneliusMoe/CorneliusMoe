@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my page</h2>
+<h1 align="center">Welcome to my page</h1>
 
 ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
