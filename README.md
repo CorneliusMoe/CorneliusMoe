@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to my page</h1>
-
-![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<div align="center"><h1>Welcome to my page</h1><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello There" /></div>
 
 Nice to meet you 👋 I am a 32-year old Web Development Student from Hamburg and very curious to learn all kinds of new stuff!
 
@@ -13,5 +11,5 @@ Nice to meet you 👋 I am a 32-year old Web Development Student from Hamburg an
 - 😲Spending way too much time on YouTube learning about mildly interesting things
 
 - 🍕Cooking and obviously eating
-
-![Visitor Count](https://profile-counter.glitch.me/{CorneliusMoe}/count.svg)
+---
+<div align="center"><h3><em>Visitors</em></h3><img src="https://profile-counter.glitch.me/{CorneliusMoe}/count.svg" alt="Visitor Count" /></div>
